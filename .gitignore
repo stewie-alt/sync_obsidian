@@ -1,0 +1,7 @@
+# VaultSync: device-specific files that should not sync
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+Thumbs.db
+desktop.ini
+.DS_Store
